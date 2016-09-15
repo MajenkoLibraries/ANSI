@@ -1,0 +1,13 @@
+{
+  "name": "ANSI",
+  "keywords": "ansi, serial, terminal",
+  "description": "Simple ANSI control code library for chipKIT",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/MajenkoLibraries/ANSI"
+  },
+  "version": "1.0.2",
+  "frameworks": "arduino",
+  "platforms": "microchippic32"
+}
