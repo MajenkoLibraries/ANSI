@@ -1,0 +1,17 @@
+{
+    "name": "ANSI",
+    "provides": "ANSI.h",
+    "license": "LICENSE.md",
+    "readme": "README.md",
+    "description": "Generate ANSI control sequences",
+    "category": "Communications",
+    "subcategory": "Serial",
+    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
+    "version": "1.1.1",
+    "family": "all",
+    "core": "all",
+    "install": {
+        "ANSI.cpp": "/",
+        "ANSI.h": "/"
+    }
+}
